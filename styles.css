@@ -21,3 +21,19 @@
 img {
     width: 100%;
 }
+
+a {
+    text-decoration: none;
+}
+
+.header__row {
+    width: 100%;
+    max-width: 1200px;
+    margin: 0 auto;
+}
+
+.nav__container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
